@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1400" height="788" alt="image" src="https://github.com/user-attachments/assets/023452e4-7d92-469b-ba6b-c4aaff290333" />
+  <img src="https://raw.githubusercontent.com/SPQRw/SPQRw/main/f9b88deeae101d6a8572063bb63c286e.gif" width="900" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aidos</h1>
